@@ -1,0 +1,11 @@
+{
+  "org": "webpy",
+  "repo": "webpy-examples",
+  "versions": [
+    {
+      "commit": "196ec74f121f1ed90e0e63794f268f123adeb106",
+      "tag": "",
+      "parsed_at": "2026-10-20T23:53:15.328272+00:00"
+    }
+  ]
+}
