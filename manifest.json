@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "webpy",
+  "repo": "webpy-examples",
+  "versions": [
+    {
+      "commit": "196ec74f121f1ed90e0e63794f268f123adeb106",
+      "parsed_at": "2026-10-20T23:51:20.087521+00:00",
+      "filetree": "filetree/196ec74f121f1ed90e0e63794f268f123adeb106.nq.gz",
+      "blobs": [
+        "blob/80d62aa162ca05bb4662e6666b3303d682ad7240.nq.gz",
+        "blob/52593149b78b4e49fdfa04cfd5563be84339479a.nq.gz",
+        "blob/1c1a7f7b1f73faac2adc2c306a0ac9df3739bf23.nq.gz",
+        "blob/e1efabd499e037f3f544ddb8fd7a86704738e139.nq.gz",
+        "blob/894a44cc066a027465cd26d634948d56d13af9af.nq.gz",
+        "blob/4c77d0f65bf084b6db5f1bf2ba4869d0c10de9e8.nq.gz",
+        "blob/cb584ab139324fbfcd499758a8c30c7765d46199.nq.gz",
+        "blob/1c188a10390091f811dab715dcfb945f3af8e8b8.nq.gz",
+        "blob/1331da6d20dc347d8fed1f367be6acd9eff19cc7.nq.gz",
+        "blob/ddd49dfd098c68364296d0f133c4dc2db73e66a4.nq.gz",
+        "blob/4c75dd727c909c1e3518057c458be65ffed67d3a.nq.gz",
+        "blob/d7e3469d974dc59aaf76a1ade7766c1448655702.nq.gz",
+        "blob/919e9ac93b1cff8c6b4907388596ca41b5d91481.nq.gz",
+        "blob/2c46080f6219a467e831425d8003da6555538f56.nq.gz",
+        "blob/e2405e6673ad6590428154f182920ffab07c692f.nq.gz",
+        "blob/1ff82c349d63adcf7801c870403082dd216b9a5d.nq.gz",
+        "blob/371c948bbe5c1e16614b834cc77cc5d696dd6fec.nq.gz",
+        "blob/de5c0bceced670599c8988d71ffc28e7b64ecec9.nq.gz",
+        "blob/8d96a034bd3a3a48e677bf39e7598b2648eb6810.nq.gz",
+        "blob/4cfe27738c60a025ca38ac96c5df6c0615932360.nq.gz",
+        "blob/d5442d6347c6322ec63a3055de7c88be15600d8b.nq.gz",
+        "blob/6f91d63853ad52bb46d58fcdb302b6bfeb5a1433.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
